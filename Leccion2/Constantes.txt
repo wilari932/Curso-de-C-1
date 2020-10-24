@@ -1,0 +1,6 @@
+﻿ //constantes 
+ // una constante se usa para crear un spacio donde podemos guardar 
+ // un valor que no quermos que sea modificado a lo largo del programa
+
+const double PI = 3.14159265359;
+double t = PI * 8;

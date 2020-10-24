@@ -1,0 +1,13 @@
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.exe
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.deps.json
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.runtimeconfig.json
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.runtimeconfig.dev.json
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.dll
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.pdb
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.csprojAssemblyReference.cache
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.AssemblyInfo.cs
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.dll
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.pdb
+C:\Users\Wilirambo\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.genruntimeconfig.cache

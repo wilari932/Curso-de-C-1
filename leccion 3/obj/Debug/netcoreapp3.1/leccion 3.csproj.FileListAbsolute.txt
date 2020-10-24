@@ -1,0 +1,13 @@
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\bin\Debug\netcoreapp3.1\leccion 3.exe
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\bin\Debug\netcoreapp3.1\leccion 3.deps.json
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\bin\Debug\netcoreapp3.1\leccion 3.runtimeconfig.json
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\bin\Debug\netcoreapp3.1\leccion 3.runtimeconfig.dev.json
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\bin\Debug\netcoreapp3.1\leccion 3.dll
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\bin\Debug\netcoreapp3.1\leccion 3.pdb
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\obj\Debug\netcoreapp3.1\leccion 3.csprojAssemblyReference.cache
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\obj\Debug\netcoreapp3.1\leccion 3.csproj.CoreCompileInputs.cache
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\obj\Debug\netcoreapp3.1\leccion 3.AssemblyInfoInputs.cache
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\obj\Debug\netcoreapp3.1\leccion 3.AssemblyInfo.cs
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\obj\Debug\netcoreapp3.1\leccion 3.dll
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\obj\Debug\netcoreapp3.1\leccion 3.pdb
+C:\Users\Wilirambo\source\repos\Curso de C# 1\leccion 3\obj\Debug\netcoreapp3.1\leccion 3.genruntimeconfig.cache
