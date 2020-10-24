@@ -1,0 +1,17 @@
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\bin\Debug\netcoreapp3.1\Leccion 4.exe
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\bin\Debug\netcoreapp3.1\Leccion 4.deps.json
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\bin\Debug\netcoreapp3.1\Leccion 4.runtimeconfig.json
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\bin\Debug\netcoreapp3.1\Leccion 4.runtimeconfig.dev.json
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\bin\Debug\netcoreapp3.1\Leccion 4.dll
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\bin\Debug\netcoreapp3.1\Leccion 4.pdb
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\obj\Debug\netcoreapp3.1\Leccion 4.csprojAssemblyReference.cache
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\obj\Debug\netcoreapp3.1\Leccion 4.AssemblyInfoInputs.cache
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\obj\Debug\netcoreapp3.1\Leccion 4.AssemblyInfo.cs
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\obj\Debug\netcoreapp3.1\Leccion 4.dll
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\obj\Debug\netcoreapp3.1\Leccion 4.pdb
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\obj\Debug\netcoreapp3.1\Leccion 4.genruntimeconfig.cache
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\bin\Debug\netcoreapp3.1\bubbling1.wav
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\obj\Debug\netcoreapp3.1\Leccion 4.csproj.CoreCompileInputs.cache
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 4\obj\Debug\netcoreapp3.1\Leccion 4.csproj.CopyComplete

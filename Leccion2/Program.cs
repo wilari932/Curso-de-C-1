@@ -4,6 +4,7 @@ namespace Leccion2
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             Console.WriteLine("Cual es tu edad? ");

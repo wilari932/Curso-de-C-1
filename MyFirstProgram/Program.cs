@@ -6,15 +6,17 @@ namespace MyFirstProgram
 {
     class Program
     {
+        // Caules son los tipos de datos primitivos en C#
+        // como declarar una variable con ellos
+        // Como se usan
+        // los operados logicos || && !
+        // los operadores aritmeticos + - * /
+        // los operadores relacionales < > != == >= <=
+        // los operadores Bitwise Operators
+
         static void Main(string[] args)
         {
-            // Caules son los tipos de datos primitivos en C#
-            // como declarar una variable con ellos
-            // Como se usan
-            // los operados logicos || && !
-            // los operadores aritmeticos + - * /
-            // los operadores relacionales < > != == >= <=
-            // los operadores Bitwise Operators
+           
 
 
             // cuenta
