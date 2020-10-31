@@ -1,0 +1,13 @@
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\bin\Debug\netcoreapp3.1\Movimento.exe
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\bin\Debug\netcoreapp3.1\Movimento.deps.json
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\bin\Debug\netcoreapp3.1\Movimento.runtimeconfig.json
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\bin\Debug\netcoreapp3.1\Movimento.runtimeconfig.dev.json
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\bin\Debug\netcoreapp3.1\Movimento.dll
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\bin\Debug\netcoreapp3.1\Movimento.pdb
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\obj\Debug\netcoreapp3.1\Movimento.csprojAssemblyReference.cache
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\obj\Debug\netcoreapp3.1\Movimento.csproj.CoreCompileInputs.cache
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\obj\Debug\netcoreapp3.1\Movimento.AssemblyInfoInputs.cache
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\obj\Debug\netcoreapp3.1\Movimento.AssemblyInfo.cs
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\obj\Debug\netcoreapp3.1\Movimento.dll
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\obj\Debug\netcoreapp3.1\Movimento.pdb
+C:\Users\Wilirambo\source\repos\Curso de C# 1\Leccion 6\obj\Debug\netcoreapp3.1\Movimento.genruntimeconfig.cache
